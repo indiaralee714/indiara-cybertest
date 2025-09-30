@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Pojects:</h2>
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Lab](https://github.com/indiaralee714/AzureLab) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
