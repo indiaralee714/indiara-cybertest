@@ -1,22 +1,34 @@
-<h1>Hello, I'm Indiara, Aspiring System Administrator!
+# 👋 Hello, I'm Indiara – Aspiring System Administrator
 
-<h2>👨‍💻 IT Pojects:</h2>
+Welcome to my GitHub! Here, I showcase hands-on labs and projects that simulate real-world IT and system administration tasks.
 
-  - [Azure Lab](https://github.com/indiaralee714/AzureLab) 
-  - [osTicket Lab](https://github.com/indiaralee714/osTicket-Lab)
-  - [Active Directory Lab](https://github.com/indiaralee714/Active-Directory-Lab)
-  - [VPN Lab](https://github.com/indiaralee714/Virtual-Private-Networks-Lab)
+---
 
+## 🖥️ IT Projects
 
-[linkedin]: https://www.linkedin.com/in/indiara-lee-a142b0175/
+Explore my lab projects:
 
+- [Azure Lab](https://github.com/indiaralee714/azure-lab)
+- [osTicket Lab](https://github.com/indiaralee714/osticket-lab)
+- [Active Directory Lab](https://github.com/indiaralee714/active-directory-lab)
+- [VPN Lab](https://github.com/indiaralee714/virtual-private-networks-lab)
 
+---
 
-Here are some insights about me:
+## 📚 About Me
 
-- 🔭 I’m currently advancing my IT skills in system administration and cybersecurity
-- 🌱 I’m currently preparing for the ComptIA Security+ certification
-- 💬 Ask me about my hands on labs!
-- 📫 How to reach me: Email indiaralee@gmail.com
-- 😄 Pronouns: She/Her
+- **Current Focus:** Advancing skills in system administration and cybersecurity.
+- **Certifications in Progress:** CompTIA Security+.
+- **Pronouns:** She/Her.
+- **Contact:** [indiaralee@gmail.com](mailto:indiaralee@gmail.com).
 
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/indiara714)
+- [Twitter](https://twitter.com/indiara714)
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions!
