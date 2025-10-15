@@ -8,7 +8,7 @@ Welcome to my GitHub! Here, I showcase hands-on labs and projects that simulate 
 
 Explore my lab projects:
 
-- [Azure Lab](https://github.com/indiaralee714/azure-lab)
+- [Azure Lab](https://github.com/indiaralee714/AzureLab)
 - [osTicket Lab](https://github.com/indiaralee714/osticket-lab)
 - [Active Directory Lab](https://github.com/indiaralee714/active-directory-lab)
 - [VPN Lab](https://github.com/indiaralee714/virtual-private-networks-lab)
