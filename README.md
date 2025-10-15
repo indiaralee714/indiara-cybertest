@@ -26,8 +26,7 @@ Explore my lab projects:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/indiara714)
-- [Twitter](https://twitter.com/indiara714)
+- [LinkedIn](https://www.linkedin.com/in/indiara-lee-a142b0175/)
 
 ---
 
